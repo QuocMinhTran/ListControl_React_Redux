@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.mt-30 {
+  margin-top: 30px;
+}
+.fa-times-circle {
+  float: right;
+}
+.label {
+  cursor: pointer;
+}
+.sort_selected:after {
+  content: "\f00c";
+  font-family: FontAwesome;
+  margin: 0;
+  display: inline-block;
+}
